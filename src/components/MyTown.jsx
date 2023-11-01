@@ -21,7 +21,6 @@ function MyTown() {
     const [symbol, setSymbol] = useState('°C')
     const [icon, setIcon] = useState()
     const [isCelcius, setIsCelcius] = useState(false)
-    // const [buttonValue, setButtonValue] = useState('Change to °F')
 
     useEffect(() => {
         fetch('https://api.openweathermap.org/data/2.5/weather?lat=44.64&lon=-63.57&appid=fd40caf02a7dd4cb9fa49b9d2f02dea7', 

@@ -4,7 +4,7 @@ function AboutMe() {
     return (
       <div className="AboutMe">
         <>
-        <h1>Neeyati Mehta</h1>
+        <h1>Neeyati Mehta - Prod</h1>
         <p>I am an inquisitive software developer with a strong passion for Big Data. 
         With a Bachelor's degree in Computer Applications and a Post Graduate Diploma in Data Analysis, my educational path, centered on mathematics and programming logic, has fortified my understanding in computer science. I firmly believe in the transformative power of technology to foster a more equitable world, and my aspiration is to explore innovative and creative approaches in the field. Currently, I am dedicated to sharpening my skills and working diligently to further my ambitions and become a professional Data Scientist.  </p>
         </>
